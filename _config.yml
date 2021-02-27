@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 header:
   title: Starter
-  has_nav: true
+  has_nav: false
   nav_links:
     - label: Features
       url: /features

@@ -24,7 +24,7 @@ header:
       url: /contact
       style: primary
 footer:
-  has_nav: true
+  has_nav: false
   nav_links:
     - label: Contact Us
       url: /contact

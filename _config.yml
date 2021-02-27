@@ -71,3 +71,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://successful-plankton-9acf2.netlify.app'
